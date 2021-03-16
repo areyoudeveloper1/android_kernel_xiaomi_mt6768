@@ -29,8 +29,8 @@
 #include <spm/mtk_spm.h>
 #include <mtk_dramc.h>
 
-#include "helio-dvfsrc_v2.h"
-#include "mtk_dvfsrc_reg.h"
+#include <helio-dvfsrc_v2.h>
+#include <mtk_dvfsrc_reg.h>
 #include <linux/regulator/consumer.h>
 
 #ifdef CONFIG_MTK_TINYSYS_SSPM_SUPPORT
