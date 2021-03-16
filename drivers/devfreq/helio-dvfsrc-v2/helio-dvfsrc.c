@@ -23,7 +23,7 @@
 #include <linux/spinlock.h>
 #include <linux/of.h>
 #include <linux/sched/clock.h>
-#include "governor.h"
+#include <governor.h>
 
 #include <mt-plat/aee.h>
 #include <spm/mtk_spm.h>
